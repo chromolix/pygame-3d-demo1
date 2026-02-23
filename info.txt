@@ -1,0 +1,8 @@
+weapon sprites:
+- sequence of images, res about 1000 x 1000
+- PNG
+- no background
+- named: 0.png -> n.png, in fodler named after the weapon, for example 'shotgun/'
+
+
+
